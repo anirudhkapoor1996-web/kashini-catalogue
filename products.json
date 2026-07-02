@@ -1,6 +1,22 @@
 {
  "products": [
   {
+   "id": "K-VI1ZHO",
+   "sku": "",
+   "name": "IMG_5253",
+   "collection": "",
+   "category": "",
+   "priceBand": "Under 1 Lakh",
+   "material": "",
+   "price": null,
+   "images": [
+    "https://raw.githubusercontent.com/anirudhkapoor1996-web/kashini-catalogue/main/images/img-5253-VI1zHo.jpeg"
+   ],
+   "inStock": true,
+   "sourceFileId": "1lhlhbgmQqjWU3oZ_pFaf49cZplVI1zHo",
+   "addedISO": "2026-07-02T13:07:41.386Z"
+  },
+  {
    "id": "K-MR3H77KG",
    "sku": "",
    "name": "IMG_5253",
