@@ -1,6 +1,22 @@
 {
  "products": [
   {
+   "id": "K-RPTU1W",
+   "sku": "",
+   "name": "IMG_4026",
+   "collection": "",
+   "category": "",
+   "priceBand": "Under 1 Lakh",
+   "material": "",
+   "price": null,
+   "images": [
+    "https://raw.githubusercontent.com/anirudhkapoor1996-web/kashini-catalogue/main/images/img-4026-RPtu1w.jpeg"
+   ],
+   "inStock": true,
+   "sourceFileId": "1WkcE-r-Mofql-UpDQ6_XSMy4r2RPtu1w",
+   "addedISO": "2026-07-02T14:16:49.885Z"
+  },
+  {
    "id": "K-ZG3R8N",
    "sku": "",
    "name": "IMG_4027",
