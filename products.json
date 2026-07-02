@@ -1,6 +1,22 @@
 {
  "products": [
   {
+   "id": "K-VF1TPZ",
+   "sku": "",
+   "name": "IMG_5222",
+   "collection": "",
+   "category": "",
+   "priceBand": "Under 1 Lakh",
+   "material": "",
+   "price": null,
+   "images": [
+    "https://raw.githubusercontent.com/anirudhkapoor1996-web/kashini-catalogue/main/images/img-5222-vf1tpZ.jpeg"
+   ],
+   "inStock": true,
+   "sourceFileId": "1xfRbSRwgtQCVb66hCVCq1NYPTsvf1tpZ",
+   "addedISO": "2026-07-02T13:09:02.802Z"
+  },
+  {
    "id": "K-TMXPAU",
    "sku": "",
    "name": "IMG_5223",
