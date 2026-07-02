@@ -1,6 +1,22 @@
 {
  "products": [
   {
+   "id": "K-57QTEC",
+   "sku": "",
+   "name": "IMG_5115",
+   "collection": "",
+   "category": "",
+   "priceBand": "Under 1 Lakh",
+   "material": "",
+   "price": null,
+   "images": [
+    "https://raw.githubusercontent.com/anirudhkapoor1996-web/kashini-catalogue/main/images/img-5115-57QTEC.jpeg"
+   ],
+   "inStock": true,
+   "sourceFileId": "1s56JfpNHHpPOytQnd759pmSJcA57QTEC",
+   "addedISO": "2026-07-02T13:15:35.176Z"
+  },
+  {
    "id": "K-NUU7EM",
    "sku": "",
    "name": "IMG_5120",
