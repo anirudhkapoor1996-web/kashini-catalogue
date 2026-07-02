@@ -1,6 +1,22 @@
 {
  "products": [
   {
+   "id": "K-YG8TJP",
+   "sku": "",
+   "name": "IMG_3970",
+   "collection": "",
+   "category": "",
+   "priceBand": "Under 1 Lakh",
+   "material": "",
+   "price": null,
+   "images": [
+    "https://raw.githubusercontent.com/anirudhkapoor1996-web/kashini-catalogue/main/images/img-3970-YG8Tjp.jpeg"
+   ],
+   "inStock": true,
+   "sourceFileId": "1sco0UeOD_Zoy4MimsyFjX06qG3YG8Tjp",
+   "addedISO": "2026-07-02T14:19:07.700Z"
+  },
+  {
    "id": "K-BLYNGT",
    "sku": "",
    "name": "IMG_3981",
