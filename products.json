@@ -1,6 +1,22 @@
 {
  "products": [
   {
+   "id": "K-3VTGU5",
+   "sku": "",
+   "name": "IMG_2105",
+   "collection": "",
+   "category": "",
+   "priceBand": "Under 1 Lakh",
+   "material": "",
+   "price": null,
+   "images": [
+    "https://raw.githubusercontent.com/anirudhkapoor1996-web/kashini-catalogue/main/images/img-2105-3VtgU5.jpeg"
+   ],
+   "inStock": true,
+   "sourceFileId": "1kpzakD4AMD7VETBIZqHBpRCe283VtgU5",
+   "addedISO": "2026-07-02T13:47:14.905Z"
+  },
+  {
    "id": "K-YJYVS9",
    "sku": "",
    "name": "IMG_2108",
