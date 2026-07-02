@@ -1,6 +1,22 @@
 {
  "products": [
   {
+   "id": "K-XAYQTV",
+   "sku": "",
+   "name": "IMG_5090",
+   "collection": "",
+   "category": "",
+   "priceBand": "Under 1 Lakh",
+   "material": "",
+   "price": null,
+   "images": [
+    "https://raw.githubusercontent.com/anirudhkapoor1996-web/kashini-catalogue/main/images/img-5090-XayQtv.jpeg"
+   ],
+   "inStock": true,
+   "sourceFileId": "1UpIzv2Z8GEFYiPkefeOKcnspo8XayQtv",
+   "addedISO": "2026-07-02T13:29:15.881Z"
+  },
+  {
    "id": "K-XVKJ3X",
    "sku": "",
    "name": "IMG_5091",
