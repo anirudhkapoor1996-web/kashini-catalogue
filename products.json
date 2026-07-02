@@ -1,6 +1,22 @@
 {
  "products": [
   {
+   "id": "K-CG4DVG",
+   "sku": "",
+   "name": "IMG_5140",
+   "collection": "",
+   "category": "",
+   "priceBand": "Under 1 Lakh",
+   "material": "",
+   "price": null,
+   "images": [
+    "https://raw.githubusercontent.com/anirudhkapoor1996-web/kashini-catalogue/main/images/img-5140-cG4dvg.jpeg"
+   ],
+   "inStock": true,
+   "sourceFileId": "1m3FSXvEPVSyMDes3inxdpbPg9OcG4dvg",
+   "addedISO": "2026-07-02T13:13:07.488Z"
+  },
+  {
    "id": "K-KPAWMN",
    "sku": "",
    "name": "IMG_5146",
