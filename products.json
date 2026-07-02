@@ -1,6 +1,22 @@
 {
  "products": [
   {
+   "id": "K-61PPVW",
+   "sku": "",
+   "name": "IMG_3951",
+   "collection": "",
+   "category": "",
+   "priceBand": "Under 1 Lakh",
+   "material": "",
+   "price": null,
+   "images": [
+    "https://raw.githubusercontent.com/anirudhkapoor1996-web/kashini-catalogue/main/images/img-3951-61ppvw.jpeg"
+   ],
+   "inStock": true,
+   "sourceFileId": "1tbo_y20MDmij3MmLeV-ILi3Rze61ppvw",
+   "addedISO": "2026-07-02T14:22:35.492Z"
+  },
+  {
    "id": "K--Y-JUE",
    "sku": "",
    "name": "IMG_3952",
