@@ -1,6 +1,22 @@
 {
  "products": [
   {
+   "id": "K-4IRJ-A",
+   "sku": "",
+   "name": "IMG_4064",
+   "collection": "",
+   "category": "",
+   "priceBand": "Under 1 Lakh",
+   "material": "",
+   "price": null,
+   "images": [
+    "https://raw.githubusercontent.com/anirudhkapoor1996-web/kashini-catalogue/main/images/img-4064-4irj-A.jpeg"
+   ],
+   "inStock": true,
+   "sourceFileId": "1cyi4dbhr0_rHmYZMrUVU6eeQvA4irj-A",
+   "addedISO": "2026-07-02T14:06:48.103Z"
+  },
+  {
    "id": "K-XPAL5X",
    "sku": "",
    "name": "IMG_4065",
