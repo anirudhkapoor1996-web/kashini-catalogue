@@ -1,6 +1,22 @@
 {
  "products": [
   {
+   "id": "K-5DZTO_",
+   "sku": "",
+   "name": "IMG_7208",
+   "collection": "",
+   "category": "",
+   "priceBand": "Under 1 Lakh",
+   "material": "",
+   "price": null,
+   "images": [
+    "https://raw.githubusercontent.com/anirudhkapoor1996-web/kashini-catalogue/main/images/img-7208-5dZtO_.jpeg"
+   ],
+   "inStock": true,
+   "sourceFileId": "1PfKrpYO5YdDJZQz2D-BADKl4Yo5dZtO_",
+   "addedISO": "2026-07-02T13:56:50.579Z"
+  },
+  {
    "id": "K-0PQB3P",
    "sku": "",
    "name": "IMG_7213",
