@@ -1,6 +1,22 @@
 {
  "products": [
   {
+   "id": "K-TEGJXY",
+   "sku": "",
+   "name": "IMG_1601",
+   "collection": "",
+   "category": "",
+   "priceBand": "Under 1 Lakh",
+   "material": "",
+   "price": null,
+   "images": [
+    "https://raw.githubusercontent.com/anirudhkapoor1996-web/kashini-catalogue/main/images/img-1601-TEgJxY.jpeg"
+   ],
+   "inStock": true,
+   "sourceFileId": "1RpjwS01YKqXj-XkTf3B7wJB6GKTEgJxY",
+   "addedISO": "2026-07-02T13:48:33.892Z"
+  },
+  {
    "id": "K-29H1FN",
    "sku": "",
    "name": "IMG_1603",
