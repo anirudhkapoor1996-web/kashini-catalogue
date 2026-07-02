@@ -1,6 +1,22 @@
 {
  "products": [
   {
+   "id": "K-VOSEDB",
+   "sku": "",
+   "name": "IMG_2095",
+   "collection": "",
+   "category": "",
+   "priceBand": "Under 1 Lakh",
+   "material": "",
+   "price": null,
+   "images": [
+    "https://raw.githubusercontent.com/anirudhkapoor1996-web/kashini-catalogue/main/images/img-2095-VoseDB.jpeg"
+   ],
+   "inStock": true,
+   "sourceFileId": "1msJ-9gEx4jLNNojLCBw9o-xEJ8VoseDB",
+   "addedISO": "2026-07-02T13:47:48.991Z"
+  },
+  {
    "id": "K-LYTOY4",
    "sku": "",
    "name": "IMG_2096",
