@@ -1,6 +1,22 @@
 {
  "products": [
   {
+   "id": "K-L58AFS",
+   "sku": "",
+   "name": "IMG_5083",
+   "collection": "",
+   "category": "",
+   "priceBand": "Under 1 Lakh",
+   "material": "",
+   "price": null,
+   "images": [
+    "https://raw.githubusercontent.com/anirudhkapoor1996-web/kashini-catalogue/main/images/img-5083-L58aFs.jpeg"
+   ],
+   "inStock": true,
+   "sourceFileId": "12AEYdlK9tQHVcwHbYi8hvnOsyDL58aFs",
+   "addedISO": "2026-07-02T13:29:46.697Z"
+  },
+  {
    "id": "K-R0BTLK",
    "sku": "",
    "name": "IMG_5085",
