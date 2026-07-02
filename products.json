@@ -1,6 +1,22 @@
 {
  "products": [
   {
+   "id": "K-CJJ-C9",
+   "sku": "",
+   "name": "IMG_5070",
+   "collection": "",
+   "category": "",
+   "priceBand": "Under 1 Lakh",
+   "material": "",
+   "price": null,
+   "images": [
+    "https://raw.githubusercontent.com/anirudhkapoor1996-web/kashini-catalogue/main/images/img-5070-cJJ-c9.jpeg"
+   ],
+   "inStock": true,
+   "sourceFileId": "1fSQzztlxW08hoO4gYUV-oo6OwkcJJ-c9",
+   "addedISO": "2026-07-02T13:30:45.682Z"
+  },
+  {
    "id": "K-QFER47",
    "sku": "",
    "name": "IMG_5072",
