@@ -1,6 +1,22 @@
 {
  "products": [
   {
+   "id": "K--KDE1C",
+   "sku": "",
+   "name": "IMG_2104",
+   "collection": "",
+   "category": "",
+   "priceBand": "Under 1 Lakh",
+   "material": "",
+   "price": null,
+   "images": [
+    "https://raw.githubusercontent.com/anirudhkapoor1996-web/kashini-catalogue/main/images/img-2104--KdE1C.jpeg"
+   ],
+   "inStock": true,
+   "sourceFileId": "1hzsdPiR_czlihPMf_844U3bGEK-KdE1C",
+   "addedISO": "2026-07-02T13:47:23.096Z"
+  },
+  {
    "id": "K-3VTGU5",
    "sku": "",
    "name": "IMG_2105",
