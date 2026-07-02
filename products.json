@@ -1,6 +1,22 @@
 {
  "products": [
   {
+   "id": "K-PMPGRC",
+   "sku": "",
+   "name": "IMG_1730",
+   "collection": "",
+   "category": "",
+   "priceBand": "Under 1 Lakh",
+   "material": "",
+   "price": null,
+   "images": [
+    "https://raw.githubusercontent.com/anirudhkapoor1996-web/kashini-catalogue/main/images/img-1730-pMpgrC.jpeg"
+   ],
+   "inStock": true,
+   "sourceFileId": "1lqBlJYQZyS9cY6Btoe6pe-H1ikpMpgrC",
+   "addedISO": "2026-07-02T14:35:25.707Z"
+  },
+  {
    "id": "K-AK5LO-",
    "sku": "",
    "name": "IMG_1742",
