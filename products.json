@@ -1,6 +1,22 @@
 {
  "products": [
   {
+   "id": "K-YOURMB",
+   "sku": "",
+   "name": "IMG_2825",
+   "collection": "",
+   "category": "",
+   "priceBand": "Under 1 Lakh",
+   "material": "",
+   "price": null,
+   "images": [
+    "https://raw.githubusercontent.com/anirudhkapoor1996-web/kashini-catalogue/main/images/img-2825-yOuRmb.jpeg"
+   ],
+   "inStock": true,
+   "sourceFileId": "1VRu6PD166HOi4kLaQw70bhCVIoyOuRmb",
+   "addedISO": "2026-07-02T13:57:39.084Z"
+  },
+  {
    "id": "K-VXRTVL",
    "sku": "",
    "name": "IMG_2826",
