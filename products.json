@@ -1,6 +1,22 @@
 {
  "products": [
   {
+   "id": "K-71D2MS",
+   "sku": "",
+   "name": "IMG_4976",
+   "collection": "",
+   "category": "",
+   "priceBand": "Under 1 Lakh",
+   "material": "",
+   "price": null,
+   "images": [
+    "https://raw.githubusercontent.com/anirudhkapoor1996-web/kashini-catalogue/main/images/img-4976-71D2ms.jpeg"
+   ],
+   "inStock": true,
+   "sourceFileId": "1edZnr7VffSQYCT1ubmmKFWyxu-71D2ms",
+   "addedISO": "2026-07-02T13:35:27.302Z"
+  },
+  {
    "id": "K-7GBFCH",
    "sku": "",
    "name": "IMG_4977",
