@@ -1,6 +1,22 @@
 {
  "products": [
   {
+   "id": "K-B-9DNO",
+   "sku": "",
+   "name": "IMG_3136",
+   "collection": "",
+   "category": "",
+   "priceBand": "Under 1 Lakh",
+   "material": "",
+   "price": null,
+   "images": [
+    "https://raw.githubusercontent.com/anirudhkapoor1996-web/kashini-catalogue/main/images/img-3136-b-9Dno.jpeg"
+   ],
+   "inStock": true,
+   "sourceFileId": "1MhI_ClNEZZNlR1H_tUmBqDBv0kb-9Dno",
+   "addedISO": "2026-07-02T14:33:43.451Z"
+  },
+  {
    "id": "K-DFFGCR",
    "sku": "",
    "name": "IMG_3138",
