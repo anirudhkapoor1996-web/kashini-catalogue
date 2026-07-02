@@ -1,6 +1,22 @@
 {
  "products": [
   {
+   "id": "K-TFKUUV",
+   "sku": "",
+   "name": "IMG_5251",
+   "collection": "",
+   "category": "",
+   "priceBand": "Under 1 Lakh",
+   "material": "",
+   "price": null,
+   "images": [
+    "https://raw.githubusercontent.com/anirudhkapoor1996-web/kashini-catalogue/main/images/img-5251-Tfkuuv.jpeg"
+   ],
+   "inStock": true,
+   "sourceFileId": "1Zr9mYjgNTvvKy9Ht29subSIgl2Tfkuuv",
+   "addedISO": "2026-07-02T13:07:48.886Z"
+  },
+  {
    "id": "K-VI1ZHO",
    "sku": "",
    "name": "IMG_5253",
