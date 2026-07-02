@@ -1,6 +1,22 @@
 {
  "products": [
   {
+   "id": "K-CP-TPA",
+   "sku": "",
+   "name": "IMG_3960",
+   "collection": "",
+   "category": "",
+   "priceBand": "Under 1 Lakh",
+   "material": "",
+   "price": null,
+   "images": [
+    "https://raw.githubusercontent.com/anirudhkapoor1996-web/kashini-catalogue/main/images/img-3960-Cp-TpA.jpeg"
+   ],
+   "inStock": true,
+   "sourceFileId": "1gKEhaTybLv2_6BTqnKB3nN3vi2Cp-TpA",
+   "addedISO": "2026-07-02T14:20:30.600Z"
+  },
+  {
    "id": "K-YKOPHU",
    "sku": "",
    "name": "IMG_3968",
