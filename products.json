@@ -1,6 +1,22 @@
 {
  "products": [
   {
+   "id": "K-BAPLZP",
+   "sku": "",
+   "name": "IMG_3906",
+   "collection": "",
+   "category": "",
+   "priceBand": "Under 1 Lakh",
+   "material": "",
+   "price": null,
+   "images": [
+    "https://raw.githubusercontent.com/anirudhkapoor1996-web/kashini-catalogue/main/images/img-3906-BAPlzP.jpeg"
+   ],
+   "inStock": true,
+   "sourceFileId": "1HEHE-PH_hFkpL5lOTe79trAeOfBAPlzP",
+   "addedISO": "2026-07-02T14:32:33.694Z"
+  },
+  {
    "id": "K-C20QOP",
    "sku": "",
    "name": "IMG_3929",
