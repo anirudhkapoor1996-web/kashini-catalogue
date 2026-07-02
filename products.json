@@ -1,6 +1,22 @@
 {
  "products": [
   {
+   "id": "K-IP1XLE",
+   "sku": "",
+   "name": "IMG_1610",
+   "collection": "",
+   "category": "",
+   "priceBand": "Under 1 Lakh",
+   "material": "",
+   "price": null,
+   "images": [
+    "https://raw.githubusercontent.com/anirudhkapoor1996-web/kashini-catalogue/main/images/img-1610-ip1xlE.jpeg"
+   ],
+   "inStock": true,
+   "sourceFileId": "1lybZzrObwxLnlXBeinMWkt98kbip1xlE",
+   "addedISO": "2026-07-02T13:58:04.788Z"
+  },
+  {
    "id": "K-J0DSMW",
    "sku": "",
    "name": "IMG_1629",
