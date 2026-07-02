@@ -1,6 +1,22 @@
 {
  "products": [
   {
+   "id": "K-1FBZCM",
+   "sku": "",
+   "name": "IMG_1414",
+   "collection": "",
+   "category": "",
+   "priceBand": "Under 1 Lakh",
+   "material": "",
+   "price": null,
+   "images": [
+    "https://raw.githubusercontent.com/anirudhkapoor1996-web/kashini-catalogue/main/images/img-1414-1fbzcM.jpeg"
+   ],
+   "inStock": true,
+   "sourceFileId": "1_T4iJTH5zo0y1-lDP3uZ2Ayjdt1fbzcM",
+   "addedISO": "2026-07-02T13:48:59.889Z"
+  },
+  {
    "id": "K-SREEKJ",
    "sku": "",
    "name": "IMG_1423",
