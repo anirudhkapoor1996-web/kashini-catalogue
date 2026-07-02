@@ -1,6 +1,22 @@
 {
  "products": [
   {
+   "id": "K-NUU7EM",
+   "sku": "",
+   "name": "IMG_5120",
+   "collection": "",
+   "category": "",
+   "priceBand": "Under 1 Lakh",
+   "material": "",
+   "price": null,
+   "images": [
+    "https://raw.githubusercontent.com/anirudhkapoor1996-web/kashini-catalogue/main/images/img-5120-NuU7em.jpeg"
+   ],
+   "inStock": true,
+   "sourceFileId": "1eQgKq6-TwGz1agkYvCzm3z3s8lNuU7em",
+   "addedISO": "2026-07-02T13:14:57.681Z"
+  },
+  {
    "id": "K-XXOMYS",
    "sku": "",
    "name": "IMG_5122",
