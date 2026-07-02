@@ -1,6 +1,22 @@
 {
  "products": [
   {
+   "id": "K-CPWYVQ",
+   "sku": "",
+   "name": "IMG_1532",
+   "collection": "",
+   "category": "",
+   "priceBand": "Under 1 Lakh",
+   "material": "",
+   "price": null,
+   "images": [
+    "https://raw.githubusercontent.com/anirudhkapoor1996-web/kashini-catalogue/main/images/img-1532-cpwyvQ.jpeg"
+   ],
+   "inStock": true,
+   "sourceFileId": "1KDYYnkAqrM3pmFr7U-J1c9IaaEcpwyvQ",
+   "addedISO": "2026-07-02T13:58:29.399Z"
+  },
+  {
    "id": "K-CRUZRP",
    "sku": "",
    "name": "IMG_1533",
