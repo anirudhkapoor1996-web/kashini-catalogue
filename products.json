@@ -1,6 +1,22 @@
 {
  "products": [
   {
+   "id": "K-IRICJZ",
+   "sku": "",
+   "name": "IMG_5183",
+   "collection": "",
+   "category": "",
+   "priceBand": "Under 1 Lakh",
+   "material": "",
+   "price": null,
+   "images": [
+    "https://raw.githubusercontent.com/anirudhkapoor1996-web/kashini-catalogue/main/images/img-5183-IRIcjZ.jpeg"
+   ],
+   "inStock": true,
+   "sourceFileId": "1RFvnelphposzAgmA_SWQl7xcmrIRIcjZ",
+   "addedISO": "2026-07-02T13:11:02.806Z"
+  },
+  {
    "id": "K-VF1MPV",
    "sku": "",
    "name": "IMG_5186",
