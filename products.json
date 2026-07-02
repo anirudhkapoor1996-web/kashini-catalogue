@@ -1,6 +1,22 @@
 {
  "products": [
   {
+   "id": "K-7RV3Q8",
+   "sku": "",
+   "name": "IMG_4313",
+   "collection": "",
+   "category": "",
+   "priceBand": "Under 1 Lakh",
+   "material": "",
+   "price": null,
+   "images": [
+    "https://raw.githubusercontent.com/anirudhkapoor1996-web/kashini-catalogue/main/images/img-4313-7RV3q8.jpeg"
+   ],
+   "inStock": true,
+   "sourceFileId": "1c9XEFpqb1DiFt5LR7RDzP6ndSk7RV3q8",
+   "addedISO": "2026-07-02T13:39:14.479Z"
+  },
+  {
    "id": "K-NYEDLO",
    "sku": "",
    "name": "IMG_4317",
