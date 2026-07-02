@@ -1,6 +1,22 @@
 {
  "products": [
   {
+   "id": "K-PUCZPU",
+   "sku": "",
+   "name": "IMG_5044",
+   "collection": "",
+   "category": "",
+   "priceBand": "Under 1 Lakh",
+   "material": "",
+   "price": null,
+   "images": [
+    "https://raw.githubusercontent.com/anirudhkapoor1996-web/kashini-catalogue/main/images/img-5044-PuczPU.jpeg"
+   ],
+   "inStock": true,
+   "sourceFileId": "1ZzxoyvIEbwPLMvR61qGrBb5AmdPuczPU",
+   "addedISO": "2026-07-02T13:31:43.211Z"
+  },
+  {
    "id": "K-6HJTAY",
    "sku": "",
    "name": "IMG_5050",
