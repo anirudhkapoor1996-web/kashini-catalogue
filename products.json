@@ -1,6 +1,22 @@
 {
  "products": [
   {
+   "id": "K-OB65QW",
+   "sku": "",
+   "name": "IMG_5234",
+   "collection": "",
+   "category": "",
+   "priceBand": "Under 1 Lakh",
+   "material": "",
+   "price": null,
+   "images": [
+    "https://raw.githubusercontent.com/anirudhkapoor1996-web/kashini-catalogue/main/images/img-5234-ob65QW.jpeg"
+   ],
+   "inStock": true,
+   "sourceFileId": "1KGWx1BgSluT3PxHr75N1BfEl9zob65QW",
+   "addedISO": "2026-07-02T13:08:04.181Z"
+  },
+  {
    "id": "K-ZIOFXE",
    "sku": "",
    "name": "IMG_5244",
