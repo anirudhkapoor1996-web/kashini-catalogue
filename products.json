@@ -1,6 +1,22 @@
 {
  "products": [
   {
+   "id": "K-QAT30X",
+   "sku": "",
+   "name": "IMG_3139",
+   "collection": "",
+   "category": "",
+   "priceBand": "Under 1 Lakh",
+   "material": "",
+   "price": null,
+   "images": [
+    "https://raw.githubusercontent.com/anirudhkapoor1996-web/kashini-catalogue/main/images/img-3139-QAT30x.jpeg"
+   ],
+   "inStock": true,
+   "sourceFileId": "1tl4mq_r8zmt9H4ofSq9Sr7_Al6QAT30x",
+   "addedISO": "2026-07-02T14:33:19.884Z"
+  },
+  {
    "id": "K-VXWQA2",
    "sku": "",
    "name": "IMG_3142",
