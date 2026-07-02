@@ -1,6 +1,22 @@
 {
  "products": [
   {
+   "id": "K-LYTOY4",
+   "sku": "",
+   "name": "IMG_2096",
+   "collection": "",
+   "category": "",
+   "priceBand": "Under 1 Lakh",
+   "material": "",
+   "price": null,
+   "images": [
+    "https://raw.githubusercontent.com/anirudhkapoor1996-web/kashini-catalogue/main/images/img-2096-lytOY4.jpeg"
+   ],
+   "inStock": true,
+   "sourceFileId": "1Jr0hrdqIYOi7GTDUkkLkyzlJNolytOY4",
+   "addedISO": "2026-07-02T13:47:40.382Z"
+  },
+  {
    "id": "K-J18W4W",
    "sku": "",
    "name": "IMG_2099",
