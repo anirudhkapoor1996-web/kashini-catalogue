@@ -1,6 +1,22 @@
 {
  "products": [
   {
+   "id": "K-2KHG6A",
+   "sku": "",
+   "name": "IMG_0261",
+   "collection": "",
+   "category": "",
+   "priceBand": "Under 1 Lakh",
+   "material": "",
+   "price": null,
+   "images": [
+    "https://raw.githubusercontent.com/anirudhkapoor1996-web/kashini-catalogue/main/images/img-0261-2khG6A.jpeg"
+   ],
+   "inStock": true,
+   "sourceFileId": "1dg-KIhU8S6DCKU2nHbju9aD3BE2khG6A",
+   "addedISO": "2026-07-02T14:05:02.798Z"
+  },
+  {
    "id": "K-CE-LYG",
    "sku": "",
    "name": "IMG_0262",
