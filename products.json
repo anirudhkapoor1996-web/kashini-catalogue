@@ -1,6 +1,22 @@
 {
  "products": [
   {
+   "id": "K-QFSXAB",
+   "sku": "",
+   "name": "IMG_0279",
+   "collection": "",
+   "category": "",
+   "priceBand": "Under 1 Lakh",
+   "material": "",
+   "price": null,
+   "images": [
+    "https://raw.githubusercontent.com/anirudhkapoor1996-web/kashini-catalogue/main/images/img-0279-qFsxab.jpeg"
+   ],
+   "inStock": true,
+   "sourceFileId": "1EXRKwYWXktTY6i1UialIuxyzXeqFsxab",
+   "addedISO": "2026-07-02T13:59:34.984Z"
+  },
+  {
    "id": "K-WI-U8Z",
    "sku": "",
    "name": "IMG_0282",
