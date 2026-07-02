@@ -1,6 +1,22 @@
 {
  "products": [
   {
+   "id": "K-1812DZ",
+   "sku": "",
+   "name": "IMG_3124",
+   "collection": "",
+   "category": "",
+   "priceBand": "Under 1 Lakh",
+   "material": "",
+   "price": null,
+   "images": [
+    "https://raw.githubusercontent.com/anirudhkapoor1996-web/kashini-catalogue/main/images/img-3124-1812dz.jpeg"
+   ],
+   "inStock": true,
+   "sourceFileId": "1nT2R22QLnnNjOl5VjKfwryrefr1812dz",
+   "addedISO": "2026-07-02T14:34:14.099Z"
+  },
+  {
    "id": "K-O6LNZZ",
    "sku": "",
    "name": "IMG_3128",
