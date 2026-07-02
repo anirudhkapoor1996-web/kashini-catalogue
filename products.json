@@ -1,6 +1,22 @@
 {
  "products": [
   {
+   "id": "K-7FYTUP",
+   "sku": "",
+   "name": "IMG_5051",
+   "collection": "",
+   "category": "",
+   "priceBand": "Under 1 Lakh",
+   "material": "",
+   "price": null,
+   "images": [
+    "https://raw.githubusercontent.com/anirudhkapoor1996-web/kashini-catalogue/main/images/img-5051-7FyTUP.jpeg"
+   ],
+   "inStock": true,
+   "sourceFileId": "1aBAoW0WhXd3pnNzXUSousdv4I-7FyTUP",
+   "addedISO": "2026-07-02T13:31:24.382Z"
+  },
+  {
    "id": "K-JVPO7T",
    "sku": "",
    "name": "IMG_5063",
