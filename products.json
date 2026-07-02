@@ -1,6 +1,22 @@
 {
  "products": [
   {
+   "id": "K-BLYNGT",
+   "sku": "",
+   "name": "IMG_3981",
+   "collection": "",
+   "category": "",
+   "priceBand": "Under 1 Lakh",
+   "material": "",
+   "price": null,
+   "images": [
+    "https://raw.githubusercontent.com/anirudhkapoor1996-web/kashini-catalogue/main/images/img-3981-BLyngT.jpeg"
+   ],
+   "inStock": true,
+   "sourceFileId": "1OzZfb14KxG8nl-Mo_UnyDas8Q-BLyngT",
+   "addedISO": "2026-07-02T14:18:42.796Z"
+  },
+  {
    "id": "K-S_ZQFD",
    "sku": "",
    "name": "IMG_3995",
