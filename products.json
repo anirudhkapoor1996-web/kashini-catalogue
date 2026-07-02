@@ -1,6 +1,22 @@
 {
  "products": [
   {
+   "id": "K-BA0AK4",
+   "sku": "",
+   "name": "IMG_7250",
+   "collection": "",
+   "category": "",
+   "priceBand": "Under 1 Lakh",
+   "material": "",
+   "price": null,
+   "images": [
+    "https://raw.githubusercontent.com/anirudhkapoor1996-web/kashini-catalogue/main/images/img-7250-Ba0aK4.jpeg"
+   ],
+   "inStock": true,
+   "sourceFileId": "1NYK3MyRpNvkAt3GAAzGj4PdJc-Ba0aK4",
+   "addedISO": "2026-07-02T13:50:22.006Z"
+  },
+  {
    "id": "K-1MBPRR",
    "sku": "",
    "name": "IMG_0154",
