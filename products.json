@@ -1,6 +1,22 @@
 {
  "products": [
   {
+   "id": "K-UKAVBO",
+   "sku": "",
+   "name": "IMG_5013",
+   "collection": "",
+   "category": "",
+   "priceBand": "Under 1 Lakh",
+   "material": "",
+   "price": null,
+   "images": [
+    "https://raw.githubusercontent.com/anirudhkapoor1996-web/kashini-catalogue/main/images/img-5013-uKAVbo.jpeg"
+   ],
+   "inStock": true,
+   "sourceFileId": "1IyDi0FvYTRh5DCO-NplDuHjwMCuKAVbo",
+   "addedISO": "2026-07-02T13:32:58.992Z"
+  },
+  {
    "id": "K-INBGDL",
    "sku": "",
    "name": "IMG_5022",
