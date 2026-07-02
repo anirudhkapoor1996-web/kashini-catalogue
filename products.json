@@ -1,6 +1,22 @@
 {
  "products": [
   {
+   "id": "K-F9OPED",
+   "sku": "",
+   "name": "IMG_4028",
+   "collection": "",
+   "category": "",
+   "priceBand": "Under 1 Lakh",
+   "material": "",
+   "price": null,
+   "images": [
+    "https://raw.githubusercontent.com/anirudhkapoor1996-web/kashini-catalogue/main/images/img-4028-F9oped.jpeg"
+   ],
+   "inStock": true,
+   "sourceFileId": "1CgXaIznhJHCkVP2fGhCnuYsCg2F9oped",
+   "addedISO": "2026-07-02T14:09:59.683Z"
+  },
+  {
    "id": "K-ASKP8N",
    "sku": "",
    "name": "IMG_4029",
