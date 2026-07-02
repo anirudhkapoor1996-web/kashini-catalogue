@@ -1,6 +1,22 @@
 {
  "products": [
   {
+   "id": "K-FLXZNS",
+   "sku": "",
+   "name": "IMG_5160",
+   "collection": "",
+   "category": "",
+   "priceBand": "Under 1 Lakh",
+   "material": "",
+   "price": null,
+   "images": [
+    "https://raw.githubusercontent.com/anirudhkapoor1996-web/kashini-catalogue/main/images/img-5160-FLXZns.jpeg"
+   ],
+   "inStock": true,
+   "sourceFileId": "1U0gv_Fgn0Z0Q6dVYdXsCmaNTBuFLXZns",
+   "addedISO": "2026-07-02T13:12:17.699Z"
+  },
+  {
    "id": "K-I6BZJU",
    "sku": "",
    "name": "IMG_5161",
