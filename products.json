@@ -1,6 +1,22 @@
 {
  "products": [
   {
+   "id": "K-LABMNL",
+   "sku": "",
+   "name": "IMG_0287",
+   "collection": "",
+   "category": "",
+   "priceBand": "Under 1 Lakh",
+   "material": "",
+   "price": null,
+   "images": [
+    "https://raw.githubusercontent.com/anirudhkapoor1996-web/kashini-catalogue/main/images/img-0287-lABmnL.jpeg"
+   ],
+   "inStock": true,
+   "sourceFileId": "1uLyfDl0PnbNz9RWJfc026TqKtslABmnL",
+   "addedISO": "2026-07-02T13:59:06.593Z"
+  },
+  {
    "id": "K-NH1Z-U",
    "sku": "",
    "name": "IMG_0288",
