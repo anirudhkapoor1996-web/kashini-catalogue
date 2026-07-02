@@ -1,6 +1,22 @@
 {
  "products": [
   {
+   "id": "K-JPIN4C",
+   "sku": "",
+   "name": "IMG_3956",
+   "collection": "",
+   "category": "",
+   "priceBand": "Under 1 Lakh",
+   "material": "",
+   "price": null,
+   "images": [
+    "https://raw.githubusercontent.com/anirudhkapoor1996-web/kashini-catalogue/main/images/img-3956-JPin4c.jpeg"
+   ],
+   "inStock": true,
+   "sourceFileId": "1XDecMXC9fMH8DO_lm_lEFKmz5lJPin4c",
+   "addedISO": "2026-07-02T13:46:41.775Z"
+  },
+  {
    "id": "K-FCFFLF",
    "sku": "",
    "name": "7A5F9059-4A93-40E1-91C0-E289D6F66343",
