@@ -1,6 +1,22 @@
 {
  "products": [
   {
+   "id": "K-CQGKAL",
+   "sku": "",
+   "name": "IMG_7219",
+   "collection": "",
+   "category": "",
+   "priceBand": "Under 1 Lakh",
+   "material": "",
+   "price": null,
+   "images": [
+    "https://raw.githubusercontent.com/anirudhkapoor1996-web/kashini-catalogue/main/images/img-7219-cqgkAL.jpeg"
+   ],
+   "inStock": true,
+   "sourceFileId": "1pQT2loPjEKACXLZGHMKQVvGNrTcqgkAL",
+   "addedISO": "2026-07-02T13:56:37.100Z"
+  },
+  {
    "id": "K-D_KWKR",
    "sku": "",
    "name": "IMG_7242",
