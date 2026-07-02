@@ -1,6 +1,22 @@
 {
  "products": [
   {
+   "id": "K-BDDBPT",
+   "sku": "",
+   "name": "IMG_4323",
+   "collection": "",
+   "category": "",
+   "priceBand": "Under 1 Lakh",
+   "material": "",
+   "price": null,
+   "images": [
+    "https://raw.githubusercontent.com/anirudhkapoor1996-web/kashini-catalogue/main/images/img-4323-BdDBPt.jpeg"
+   ],
+   "inStock": true,
+   "sourceFileId": "1vhi_Rf3Dc_tndvFwV80VpvnqxsBdDBPt",
+   "addedISO": "2026-07-02T13:38:10.785Z"
+  },
+  {
    "id": "K-1DITS9",
    "sku": "",
    "name": "IMG_4324",
