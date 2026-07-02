@@ -1,6 +1,21 @@
 {
  "products": [
   {
+   "id": "K-MR3H77KG",
+   "sku": "",
+   "name": "IMG_5253",
+   "collection": "",
+   "category": "",
+   "priceBand": "Under ₹1,00,000",
+   "material": "",
+   "price": null,
+   "images": [
+    "https://raw.githubusercontent.com/anirudhkapoor1996-web/kashini-catalogue/main/images/img-5253-mr3h77kg.jpeg"
+   ],
+   "inStock": true,
+   "addedISO": "2026-07-02T12:23:41.584Z"
+  },
+  {
    "id": "K-101",
    "sku": "",
    "name": "Style No. K-101",
