@@ -1,6 +1,22 @@
 {
  "products": [
   {
+   "id": "K-M8G2M0",
+   "sku": "",
+   "name": "IMG_2087",
+   "collection": "",
+   "category": "",
+   "priceBand": "Under 1 Lakh",
+   "material": "",
+   "price": null,
+   "images": [
+    "https://raw.githubusercontent.com/anirudhkapoor1996-web/kashini-catalogue/main/images/img-2087-M8G2M0.jpeg"
+   ],
+   "inStock": true,
+   "sourceFileId": "1PeI_jUPhLPWZ9Q284vAfDludoQM8G2M0",
+   "addedISO": "2026-07-02T13:47:58.184Z"
+  },
+  {
    "id": "K-VOSEDB",
    "sku": "",
    "name": "IMG_2095",
