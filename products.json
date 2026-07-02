@@ -1,6 +1,22 @@
 {
  "products": [
   {
+   "id": "K-F_ZBUB",
+   "sku": "",
+   "name": "IMG_4298",
+   "collection": "",
+   "category": "",
+   "priceBand": "Under 1 Lakh",
+   "material": "",
+   "price": null,
+   "images": [
+    "https://raw.githubusercontent.com/anirudhkapoor1996-web/kashini-catalogue/main/images/img-4298-f_zBub.jpeg"
+   ],
+   "inStock": true,
+   "sourceFileId": "1zpr6tX6UQP35Uw6xl7katChEfUf_zBub",
+   "addedISO": "2026-07-02T13:41:49.076Z"
+  },
+  {
    "id": "K-2RZSGZ",
    "sku": "",
    "name": "IMG_4300",
