@@ -1,6 +1,22 @@
 {
  "products": [
   {
+   "id": "K-WVPAF6",
+   "sku": "",
+   "name": "IMG_5206",
+   "collection": "",
+   "category": "",
+   "priceBand": "Under 1 Lakh",
+   "material": "",
+   "price": null,
+   "images": [
+    "https://raw.githubusercontent.com/anirudhkapoor1996-web/kashini-catalogue/main/images/img-5206-WVpaf6.jpeg"
+   ],
+   "inStock": true,
+   "sourceFileId": "1MBeHJg5EHdMXOornKoEj0W-b2JWVpaf6",
+   "addedISO": "2026-07-02T13:09:38.482Z"
+  },
+  {
    "id": "K-PXGJ_N",
    "sku": "",
    "name": "IMG_5214",
