@@ -1,6 +1,22 @@
 {
  "products": [
   {
+   "id": "K-DFFGCR",
+   "sku": "",
+   "name": "IMG_3138",
+   "collection": "",
+   "category": "",
+   "priceBand": "Under 1 Lakh",
+   "material": "",
+   "price": null,
+   "images": [
+    "https://raw.githubusercontent.com/anirudhkapoor1996-web/kashini-catalogue/main/images/img-3138-dfFgCR.jpeg"
+   ],
+   "inStock": true,
+   "sourceFileId": "1zDaK5xWa3xRgE62BQMmLAXm4ZTdfFgCR",
+   "addedISO": "2026-07-02T14:33:30.092Z"
+  },
+  {
    "id": "K-QAT30X",
    "sku": "",
    "name": "IMG_3139",
