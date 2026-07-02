@@ -1,6 +1,22 @@
 {
  "products": [
   {
+   "id": "K-SMYECO",
+   "sku": "",
+   "name": "IMG_3130",
+   "collection": "",
+   "category": "",
+   "priceBand": "Under 1 Lakh",
+   "material": "",
+   "price": null,
+   "images": [
+    "https://raw.githubusercontent.com/anirudhkapoor1996-web/kashini-catalogue/main/images/img-3130-SMyeco.jpeg"
+   ],
+   "inStock": true,
+   "sourceFileId": "10IwUHO2Y6YQbE_Ja7i4ONnyWQMSMyeco",
+   "addedISO": "2026-07-02T14:33:54.299Z"
+  },
+  {
    "id": "K-B-9DNO",
    "sku": "",
    "name": "IMG_3136",
