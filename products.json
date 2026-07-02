@@ -1,6 +1,22 @@
 {
  "products": [
   {
+   "id": "K-AMYWOU",
+   "sku": "",
+   "name": "IMG_5169",
+   "collection": "",
+   "category": "",
+   "priceBand": "Under 1 Lakh",
+   "material": "",
+   "price": null,
+   "images": [
+    "https://raw.githubusercontent.com/anirudhkapoor1996-web/kashini-catalogue/main/images/img-5169-AmyWou.jpeg"
+   ],
+   "inStock": true,
+   "sourceFileId": "1cx5D5ASRpnvBiJWvX1WY9EB77qAmyWou",
+   "addedISO": "2026-07-02T13:11:35.596Z"
+  },
+  {
    "id": "K-YARX4U",
    "sku": "",
    "name": "IMG_5170",
