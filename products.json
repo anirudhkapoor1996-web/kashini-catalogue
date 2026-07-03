@@ -1462,7 +1462,7 @@
    "name": "IMG_0154",
    "collection": "",
    "category": "",
-   "priceBand": "Under 1 Lakh",
+   "priceBand": "under-60",
    "material": "",
    "price": null,
    "images": [
@@ -1470,7 +1470,10 @@
    ],
    "inStock": true,
    "sourceFileId": "1zqAgl5AIzAqYjaLbTnL_SRsnSR1mBprR",
-   "addedISO": "2026-07-02T13:50:11.174Z"
+   "addedISO": "2026-07-02T13:50:11.174Z",
+   "priceLabel": "Under ₹60,000",
+   "currency": "INR",
+   "wishlistable": true
   },
   {
    "id": "K-MYEJKS",
