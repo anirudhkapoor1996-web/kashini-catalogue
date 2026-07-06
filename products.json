@@ -5873,6 +5873,27 @@
    ],
    "inStock": true,
    "wishlistable": true
+  },
+  {
+   "id": "LC 380",
+   "sku": "LC 380",
+   "name": "Panchi set",
+   "material": "22kts gold and uncut natural diamond polki",
+   "category": "Sets",
+   "priceBand": "under-1",
+   "priceLabel": "Under ₹1,00,000",
+   "price": null,
+   "currency": "INR",
+   "images": [
+    "https://raw.githubusercontent.com/anirudhkapoor1996-web/kashini-catalogue/main/images/img-2096-lytOY4.jpeg"
+   ],
+   "inStock": true,
+   "wishlistable": true,
+   "metalType": "gold22",
+   "salePrice": 95000,
+   "certification": [
+    "Hallmark"
+   ]
   }
  ]
 }
