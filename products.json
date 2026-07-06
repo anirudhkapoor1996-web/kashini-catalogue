@@ -5894,6 +5894,27 @@
    "certification": [
     "Hallmark"
    ]
+  },
+  {
+   "id": "LC 382",
+   "sku": "LC 382",
+   "name": "Tota set",
+   "material": "22kts gold and uncut natural diamond polki",
+   "category": "Necklaces",
+   "priceBand": "under-1",
+   "priceLabel": "Under ₹1,00,000",
+   "price": null,
+   "currency": "INR",
+   "images": [
+    "https://raw.githubusercontent.com/anirudhkapoor1996-web/kashini-catalogue/main/images/img-2105-3VtgU5.jpeg"
+   ],
+   "inStock": true,
+   "wishlistable": true,
+   "metalType": "gold22",
+   "salePrice": 90000,
+   "certification": [
+    "Hallmark"
+   ]
   }
  ]
 }
